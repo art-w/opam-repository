@@ -26,6 +26,7 @@ This library implements various datastructures and algorithms:
 - jump consistent hashing
 - solutions to the order maintenance problem
 - ...
+TEST CI
 """
 url {
   src:
